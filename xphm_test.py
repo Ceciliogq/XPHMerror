@@ -19,13 +19,13 @@ parameters = {
     "mass_1": 260.198766485256,
     "mass_2": 14.333365815353579,
     "reference_frequency": 20.0,
-    "waveform_approximant": "IMRPhenomPv3HM",
+    "waveform_approximant": "IMRPhenomXPHM",
     "catch_waveform_errors": True,
     "pn_spin_order": -1,
     "pn_tidal_order": -1,
     "pn_phase_order": -1,
     "pn_amplitude_order": 1,
-    "PhenomXPHMThresholdMband": 0
+    #"PhenomXPHMThresholdMband": 0
 }
 
 
